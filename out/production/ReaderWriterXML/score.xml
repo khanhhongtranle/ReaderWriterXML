@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gomoku>
+    <player>
+        <name>Jerry</name>
+        <score>500</score>
+    </player>
+    <player>
+        <name>Mark</name>
+        <score>300</score>
+    </player>
+    <player>
+        <name>Timmy</name>
+        <score>1000</score>
+    </player>
+    <player>
+        <name>Bob</name>
+        <score>3200</score>
+    </player>
+    <player>
+        <name>Tom</name>
+        <score>18000</score>
+    </player>
+</gomoku>
